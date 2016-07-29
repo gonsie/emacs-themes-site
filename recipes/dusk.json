@@ -1,0 +1,19 @@
+{
+    "name": "Dusk Theme",
+    "description": "A dark theme for Emacs based on the XCode Dusk.",
+    "remoteSrc": "https:\/\/github.com\/gonsie\/emacs-dusk-theme",
+    "localSrc": ".\/assets\/local-src\/dusk-theme-source-code.el",
+    "author": "Elsa Gonsiorowski",
+    "largeImgs": [
+        ".\/assets\/imgs\/dusk.png",
+        ".\/assets\/imgs\/dusk-bis.png",
+        ".\/assets\/imgs\/dusk-theme.png",
+    ],
+    "tags": [
+        "dusk",
+        "dark",
+        "modern"
+    ],
+    "available": true,
+    "smallImg": ".\/assets\/imgs-small\/dusk.png"
+}
